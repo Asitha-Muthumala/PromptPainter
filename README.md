@@ -12,7 +12,3 @@
 - ⚙️ Based on pre-trained models like VQGAN / Stable Diffusion
 - 📚 Works with datasets like Flickr8k
 - 🔍 Easy-to-read, Colab-friendly Jupyter notebooks
-
----
-
-## 📦 Project Structure
